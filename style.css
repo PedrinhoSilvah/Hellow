@@ -1,0 +1,42 @@
+p{
+    text-align: center;
+    display: none;
+    font-size: 20px;
+}
+
+button{
+    width: 100px;
+}
+h1{
+    text-align: center;
+    font-size: 24px;
+    color: aqua;
+}
+
+h2{
+    text-align: right;
+    color: rebeccapurple;
+}
+
+h4{
+    font-size: 30px;
+}
+
+#on{
+    width: 200px;
+    height: 200px;
+    border: 1px solid #808080	;
+    border-radius: 5px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}  
+.color{
+    color: blueviolet;
+    background-color: pink;
+}
+.id2{
+    background-color: red;
+    margin-top: 100px;
+    text-align: center;
+}
